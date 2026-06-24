@@ -4,7 +4,6 @@
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!-- ===== แบนเนอร์หัว (คลื่นไล่สีม่วง→น้ำเงิน) ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6d28d9,7c3aed,4f46e5,2563eb&height=220&section=header&text=lenoadaaa-desig&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Designer%20%26%20Developer&descSize=18&descAlignY=58" width="100%"/>
 </div>
 <!-- ===== ข้อความพิมพ์เคลื่อนไหว (สีม่วง) ===== -->
 <div align="center">
